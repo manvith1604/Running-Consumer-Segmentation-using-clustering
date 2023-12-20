@@ -8,6 +8,6 @@ The aim of this project involves honing skills in implementing unsupervised lear
 Project Details:
 The dataset comprises survey responses from participants who answered a range of questions pertaining to their running routines. An Excel file containing this dataset, accompanied by a comprehensive datamap describing each field, will be provided.
 
-survey_data
+[survey_data](survey_data.xlsx)
 
 [Python_Notebook](Python_notebook.ipynb)
